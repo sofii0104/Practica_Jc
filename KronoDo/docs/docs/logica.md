@@ -11,6 +11,9 @@ KronoDo es una app dirigida a personas que sueñan en grande pero no logran alca
 
 ## Pseudocódigo 
 Si [el correo ya fue utilizado por otro usuario]:
+    
     mostrar [Error: el correo ya fue registrado]
+
 Si no:
+    
     mostrar [¡Cuenta creada con éxito!]
