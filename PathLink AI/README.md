@@ -1,0 +1,1 @@
+# PathLinkAI es una plataforma digital impulsada por inteligencia artificial que ayuda a estudiantes a descubriroportunidades académicas y profesionales personalizadas según sus intereses, habilidades, metas y situación económica. Además, la plataforma crea rutas de crecimiento personalizadas para mostrarle al usuario qué necesita mejorar o desarrollar para alcanzar sus metas.
